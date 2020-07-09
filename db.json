@@ -1,0 +1,63 @@
+{
+  "profiles": [
+    { "userId": 1, "username": "Randy", "passcode": "RaNdY123" },
+    { "userId": 2, "username": "Sandra", "passcode": "Horse113" },
+    { "userId": 3, "username": "John", "passcode": "password" }
+  ],
+  "sets": [
+    {
+      "id": 1,
+      "title": "Addition 101",
+      "set": [
+        {
+          "question": "1 + 1",
+          "answer": "2"
+        },
+        {
+          "question": "2 + 2",
+          "answer": "4"
+        },
+        {
+          "question": "3 + 3",
+          "answer": "6"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "State Capitals",
+      "set": [
+        {
+          "question": "NY",
+          "answer": "Albany"
+        },
+        {
+          "question": "CA",
+          "answer": "Sacramento"
+        },
+        {
+          "question": "AK",
+          "answer": "Juneau"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Dutch to English",
+      "set": [
+        {
+          "question": "Tot zo",
+          "answer": "See you soon"
+        },
+        {
+          "question": "Alstublieft",
+          "answer": "Please"
+        },
+        {
+          "question": "Dank je wel",
+          "answer": "Thank you"
+        }
+      ]
+    }
+  ]
+}
